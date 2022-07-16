@@ -1,0 +1,18 @@
+.header{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.header h1{
+    font-weight: bold;
+    color: #fff;
+    font-size: 3rem;
+    margin: 1rem;
+    padding: 1rem 2rem;
+    background-color: rgb(71, 4, 8);
+    border: none;
+    border-radius: 3rem;
+}
